@@ -19,6 +19,7 @@ class LoginScreen extends StatelessWidget {
         '/signup': (BuildContext context) => const SignupPage(),
         '/forgotpassword': (BuildContext context) => const ForgotPassword(),
         '/loginScree': (BuildContext context) => const LoginScreen(),
+        '/MhomeScreen': (BuildContext context) => const MyHomePage(),
       },
       home: const MyHomePage(),
     );
