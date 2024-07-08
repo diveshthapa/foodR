@@ -15,3 +15,4 @@ Here are some of its features :
 7. User Profie
 8. Logout
 
+foodrecipe/assets/images/dhido.jpg
