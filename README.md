@@ -14,5 +14,5 @@ Here are some of its features :
 6. Report
 7. User Profie
 8. Logout
-
-foodrecipe/assets/images/dhido.jpg
+[
+foodrecipe/assets/images/dhido.jpg](https://github.com/diveshthapa/foodR/blob/master/foodrecipe/assets/images/dhido.jpg)
