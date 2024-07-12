@@ -16,6 +16,6 @@ Here are some of its features :
 8. Logout
 
    <br>
-   ## Some of the Screenshots are here :-
+## Some of the Screenshots are here :-
 9. Nepali Food " Dhido"<br>
 ![foodrecipe](https://github.com/diveshthapa/foodR/blob/master/foodrecipe/assets/images/dhido.jpg)
