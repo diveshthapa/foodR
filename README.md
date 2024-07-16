@@ -18,7 +18,7 @@ Here are some of its features :
    <br>
 ## Some of the Screenshots are here :-
 9. Nepali Food " Dhido"<br>
-![foodrecipe](https://github.com/?raw=true" style="max-width:100%; height:auto;)
-![food Recipes](https://github.com/user-attachments/assets/606693ed-2b98-4df7-b6cd-9b6c6499c97a)
-<img src="https://github.com/diveshthapa/foodR/blob/master/foodrecipe/assets/images/dhido.jpg?raw=true" width="100%" />
+![1]<img src="https://github.com/diveshthapa/foodR/blob/master/foodrecipe/assets/images/dhido.jpg?raw=true" width="300" height="200" />
 
+
+![food Recipes](https://github.com/user-attachments/assets/606693ed-2b98-4df7-b6cd-9b6c6499c97a)
