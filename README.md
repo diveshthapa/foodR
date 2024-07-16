@@ -20,4 +20,4 @@ Here are some of its features :
 9. Nepali Food " Dhido"<br>
 Food recipe             |  User Profile
 :-------------------------:|:-------------------------:
-![Food recipe]<img src="https://github.com/diveshthapa/foodR/blob/master/foodrecipe/assets/images/dhido.jpg?raw=true" width="300" height="200" /> |![User Profile](https://github.com/user-attachments/assets/606693ed-2b98-4df7-b6cd-9b6c6499c97a)
+![Food_recipe]<img src="https://github.com/diveshthapa/foodR/blob/master/foodrecipe/assets/images/dhido.jpg?raw=true" width="300" height="200" /> |![User_Profile](https://github.com/user-attachments/assets/606693ed-2b98-4df7-b6cd-9b6c6499c97a)
