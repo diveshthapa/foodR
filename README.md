@@ -1,6 +1,6 @@
 # foodR
 Food Recipe App -
-Its a college 6th semester project based on flutter as fronted and firebase as backend &c loud storage.
+Its a college 6th semester project based on flutter as fronted and firebase as backend & cloud storage.
 
 Here are some of its features :
 
